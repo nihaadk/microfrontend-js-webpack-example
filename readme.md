@@ -1,0 +1,3 @@
+# Microfrontend Example with Webpack (Module Federation) and JavaScript
+
+This project demonstrates a simple implementation of microfrontends using Webpack's Module Federation. It showcases how to split a web application into multiple independently deployable modules that can share code and dependencies dynamically. The example uses JavaScript to define host and remote applications, enabling seamless integration and communication between them. This approach promotes scalability and reusability in large-scale web applications.
